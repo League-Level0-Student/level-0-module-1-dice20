@@ -7,12 +7,14 @@ public static void main(String[] args) {
 	if("10/15".equals(bday)) {
 		
 		JOptionPane.showMessageDialog(null,"you`re old");
+	} else {
+		
+		
+		happy unbirthbay
 	}
 	
 	
 
-
-JOptionPane.showMessageDialog(null,"you`re old");
 
 }
 }
