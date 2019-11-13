@@ -4,13 +4,13 @@ public class unbday {
 public static void main(String[] args) {
 	String bday =JOptionPane.showInputDialog("what is your birthday");
 	
-	if("10/15".equals(bday)) {
+	if("11/12".equals(bday)) {
 		
-		JOptionPane.showMessageDialog(null,"you`re old");
+		JOptionPane.showMessageDialog(null,"Happy Birthday");
 	} else {
 		
+		JOptionPane.showMessageDialog(null,"happy unbirthbay");
 		
-		happy unbirthbay
 	}
 	
 	
