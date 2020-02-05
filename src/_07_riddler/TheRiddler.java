@@ -18,8 +18,8 @@ public class TheRiddler {
 			JOptionPane.showMessageDialog(null, "correctamento");
 
 		} else {
-			score = score - 50;
-			JOptionPane.showMessageDialog(null, "incorect");
+			score = score - 500;
+			JOptionPane.showMessageDialog(null, "incorect the answer is you make a pie with all 4 apples");
 
 		}
 
@@ -63,8 +63,8 @@ if (riddle.equals ("a mug of coffee")) {
 
 }else {
 	
-	score = score - 50;
-	JOptionPane.showMessageDialog(null, "incorect");
+	score = score - 500;
+	JOptionPane.showMessageDialog(null, "incorect the anwser is a mug of coffee");
 
 
 JOptionPane.showMessageDialog(null, "your score is " + score);
