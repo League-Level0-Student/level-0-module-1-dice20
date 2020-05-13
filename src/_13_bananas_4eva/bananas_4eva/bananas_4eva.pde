@@ -1,5 +1,7 @@
-for(int i = 0; i<1000; i++){print(i);}  
-  
+
+for(int i = 0; i<1000; i++){
+System.out.println("banana");
+
   
   
   
@@ -13,4 +15,5 @@ for(int i = 0; i<1000; i++){print(i);}
   
   
   
-  
+
+}
